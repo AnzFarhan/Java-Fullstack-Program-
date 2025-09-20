@@ -15,7 +15,7 @@ The program covers **backend, and database development**, with hands-on learning
 
 ---
 
-## 📚 About the Programme
+## 📚 About the Programme 
 The **Java Fullstack Programme** focuses on building real-world applications by covering:
 - **Backend Development** → Java, Spring Boot, REST APIs.  
 - **Databases** → MySQL / JDBC.  
