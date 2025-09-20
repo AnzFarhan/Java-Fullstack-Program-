@@ -33,7 +33,6 @@ The **Java Fullstack Programme** focuses on building real-world applications by 
 
 
 ## 📂 Repository Structure
-```bash
 .
 ├── Mock Exam/              # Mock exam projects
 ├── Springboot Practice/    # Spring Boot practice exercises
@@ -70,3 +69,4 @@ Start with:
 -Master the fullstack developer workflow.
 -Build a portfolio of Java + Spring Boot projects.
 -Gain confidence in team collaboration using Git & GitHub.
+
