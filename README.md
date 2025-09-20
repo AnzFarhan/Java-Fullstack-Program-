@@ -44,29 +44,29 @@ The **Java Fullstack Programme** focuses on building real-world applications by 
 
 ## ▶️ How to Run
 1. Clone this repo:
-    git clone https://github.com/<your-username>/<your-repo-name>.git
-    cd <your-repo-name>
+    - git clone https://github.com/<your-username>/<your-repo-name>.git
+    - cd <your-repo-name>
 
 2. Open backend projects in IntelliJ IDEA.
-    Build & run using Maven/Gradle.
+    - Build & run using Maven/Gradle.
 
 3. Open frontend projects in VS Code or your preferred editor.
-Start with:
-    npm install
-    npm start
+- Start with:
+    - npm install
+    - npm start
 
 ---
 
 ## 💻 Projects
 
--Spring Boot REST API → Build and test CRUD APIs
--Database Integration → MySQL/PostgreSQL queries and schemas
--Group Project → Fullstack application with real-world use case
+- Spring Boot REST API → Build and test CRUD APIs
+- Database Integration → MySQL/PostgreSQL queries and schemas
+- Group Project → Fullstack application with real-world use case
 
 ---
 
 ## 🎯 Goals
--Master the fullstack developer workflow.
--Build a portfolio of Java + Spring Boot projects.
--Gain confidence in team collaboration using Git & GitHub.
+- Master the fullstack developer workflow.
+- Build a portfolio of Java + Spring Boot projects.
+- Gain confidence in team collaboration using Git & GitHub.
 
